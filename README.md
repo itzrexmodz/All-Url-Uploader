@@ -31,7 +31,7 @@ Star the repo And Follow [Me](https://github.com/kalanakt)
 ### Easiest Heroku Deploy 🤭
 
 <p align="">
-    <a href="https://heroku.com/deploy?template=https://github.com/The-Mayans/All-Url-Uploader"> <!--- replace your forked link -->
+    <a href="https://heroku.com/deploy?template=https://github.com/itzrexmodz/All-Url-Uploader"> <!--- replace your forked link -->
     <img src="https://www.herokucdn.com/deploy/button.svg" alt="herokudeploy-01" border="0" height="60" width="200"></a>
 </p>
 
